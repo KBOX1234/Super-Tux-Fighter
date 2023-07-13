@@ -1,0 +1,9 @@
+const char addEntity = 0;
+const char EntityID = 1;
+const char EntityType = 2;
+const char removeEntity = 3;
+const char spawnCX = 4;
+const char spawnCY = 5;
+const char triggerAPIread = 6;
+
+const char mob = 1;
