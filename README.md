@@ -1,6 +1,6 @@
 # Super-Tux-Fighter
-
-## DO NOT LEAK >:(
+A game I worked on in middle school for about a year.
+I didn't know what pointers where so the code looks kinda convoluted.
 
 ### building on linux
 g++ main.cpp -lraylib -lGL -lm -lpthread -ldl -lrt -lX11 -o STF -Wwrite-strings -Wnarrowing -std=c++17<br>
